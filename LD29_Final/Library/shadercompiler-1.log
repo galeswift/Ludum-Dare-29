@@ -1,0 +1,62 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-21368
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=2734 outsize=1517 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (85): 'vert': output parameter 'o' not completely initialized
+  error: 1 plat 4 at (112): implicit truncation of vector type
+  error: 1 plat 4 at (113): implicit truncation of vector type
+  error: 1 plat 4 at (114): implicit truncation of vector type
+  error: 1 plat 4 at (115): implicit truncation of vector type
+  api=4 type=0 insize=6456 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: preprocess
+  insize=815 outsize=426 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=691 outsize=827 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=691 outsize=600 kw= ok=1
+Cmd: preprocess
+  error: 2 plat 12 at (12): Giving up. Parser is hopelessly lost...
+  error: 2 plat 12 at (29): Syntax error
+  error: 2 plat 12 at (31): Syntax error
+  insize=994 outsize=489 ok=0
+Cmd: preprocess
+  error: 1 plat 12 at (1390): Compiling shaders to OpenGL ES 2.0, Xbox 360, PS3, Flash or DX11 requires both vertex and fragment programs
+  insize=2115 outsize=2951 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4876 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4876 outsize=1307 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2852 outsize=2875 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2852 outsize=1607 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2380 outsize=1477 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2380 outsize=632 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4593 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4593 outsize=1250 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=936 outsize=1599 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=936 outsize=502 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4877 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4877 outsize=1307 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2852 outsize=2875 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2852 outsize=1607 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2381 outsize=1477 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2381 outsize=632 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4594 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4594 outsize=1250 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
